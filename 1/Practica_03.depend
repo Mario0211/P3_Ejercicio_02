@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582169922 source:/Users/marioalbertonegreteobregon/Documents/POO/practica3/Practica_03/main.cpp
+	<iostream>
+	"punto.h"
+	"rectangulo.h"
+
+1582169922 /Users/marioalbertonegreteobregon/Documents/POO/practica3/Practica_03/punto.h
+
+1582169922 /Users/marioalbertonegreteobregon/Documents/POO/practica3/Practica_03/rectangulo.h
+	<iostream>
+	<math.h>
+	"punto.h"
+
